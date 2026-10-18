@@ -163,6 +163,3 @@ Try typing any of the following task titles and clicking **"✨ Auto-Generate wi
    * *Recommended Priority:* **Medium**
 
 ---
-
-## 📄 License
-This project is open-source and intended for educational and developmental purposes.
